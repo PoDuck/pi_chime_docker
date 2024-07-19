@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=chime_docker
+POSTGRES_USER=GoZlHERydzZvNZEIKOFKqAvphiUbMGBW
+POSTGRES_PASSWORD=f8Cig2ReHVaqOvbWOOQEvAyX4F6cFBI5SQB8HNlBPQBh7pwriXGNuTmczGIPUWKb
